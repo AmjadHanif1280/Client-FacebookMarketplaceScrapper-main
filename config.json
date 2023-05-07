@@ -1,0 +1,69 @@
+{
+    "PERSONALINFO": {
+        "lat": "-37.8411",
+        "lon": "144.9799",
+        "regionName": "Victoria",
+        "city": "Melbourne"
+    },
+    "telegram": {
+        "telegram_bot_api": "5903919928:AAG_ty7EFMPuW6q2b06cFnn_v4Stg0sd2vc",
+        "channel_id": "-1001856935845",
+        "dev_channel_id": "-1001861947909"
+    },
+    "resultsOptions": {
+        "query_count": 2,
+        "filter_radius": 250,
+        "date_option": 1
+    },
+    "queries": {
+        "allow_duplicates": "True",
+        "title_include": [
+            " wood heater",
+            " fireplace",
+            " coonara",
+            " wood oven",
+            " Chemineese",
+            " jindara boo"
+        ],
+        "title_exclude": [
+            " electric",
+            " gas",
+            " log",
+            " pizza",
+            " fish",
+            " lighter",
+            " bbq",
+            " fridge",
+            " valentine",
+            " holden",
+            " brass",
+            " waterbed",
+            " workbench",
+            " rent",
+            " campervan",
+            " surround",
+            " surrounds",
+            " pit",
+            " aquaria",
+            " aquarium",
+            " cabin",
+            " apartment",
+            " kitchen",
+            " table",
+            " copper",
+            " hearth",
+            " guard",
+            " ducted",
+            " vent",
+            " firewood",
+            " sport",
+            " car",
+            " chimnea",
+            " lantern",
+            " mirror",
+            " vintage",
+            " home",
+            " bedroom"
+        ]
+    }
+}
